@@ -1,5 +1,10 @@
 #RetroPie Roms
 
-* chmod +x run.py
+* make sure to chmod +x run.py
 * ./run.py
-*update
+* Create the games list with <CMD>update
+
+###Usage
+
+* find [nes|snes|psx] [game]
+* get [nes|snes|psx] [exact game title]
